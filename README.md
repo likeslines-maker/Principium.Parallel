@@ -1,7 +1,7 @@
 # Principium
 
 ```bash
-dotnet add package Principium
+dotnet add package Principium.Parallel
 ```
 
 **Adaptive Parallel Processing Engine with Intelligent Deduplication, Caching, and Last-Write-Wins Semantics**
