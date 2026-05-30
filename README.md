@@ -1,5 +1,9 @@
 # Principium
 
+```bash
+dotnet add package Principium
+```
+
 **Adaptive Parallel Processing Engine with Intelligent Deduplication, Caching, and Last-Write-Wins Semantics**
 
 Principium is a high-performance .NET library that automatically selects the optimal execution strategy for processing large collections. It analyzes duplicate ratios, applies intelligent caching, and performs parallel execution when beneficial.
